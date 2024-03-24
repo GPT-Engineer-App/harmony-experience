@@ -66,6 +66,17 @@ const Index = () => {
         </Container>
       </Box>
 
+      <Box bg="white" py={20}>
+        <Container maxW="container.lg">
+          <Heading as="h2" size="2xl" mb={4}>
+            Ray the Legend
+          </Heading>
+          <Text fontSize="lg" mb={6}>
+            Witness the legendary Ray, widely regarded as the best musician in the world, as he rocks the stage with his unparalleled talent and electrifying performances. Don't miss this once-in-a-lifetime opportunity to see a true music icon live in action!
+          </Text>
+        </Container>
+      </Box>
+
       <Container maxW="container.lg" py={10} textAlign="center">
         <Heading as="h2" size="xl" mb={4}>
           Follow Us
